@@ -1,0 +1,22 @@
+.card{
+border:3px solid green;
+}
+.name{
+	display: flex;
+
+}
+.name{
+	color:red
+}
+.name1{
+	margin-left: 10px ;
+	margin-right: 10px;
+	
+}
+.email{
+	color: aqua;
+}
+.divka{
+	display: flex;
+	justify-content: space-between;
+}
